@@ -16,9 +16,10 @@ Native SwiftUI components
 ## 💊 How To Use
 
 ### Popover
-
-![Gif Example](popover.GIF)
-![Example](popover.png)
+<div style="float:left;margin:0 10px 10px 0" markdown="1">
+  <img src="popover.png" width="320" height="570">
+  <img src="popover.GIF" width="246" height="480">
+</div>
 
 You specify the content of a popover using a SwiftUI views extension method.
 
